@@ -1,4 +1,4 @@
-restaurant_update_manager
+Restaurant Update Manager
 =========================
 
 Handles updates for the Restaurant distribution.
